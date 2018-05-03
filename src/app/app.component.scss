@@ -1,0 +1,33 @@
+#logo{
+  font-family: 'Bangers', cursive;
+  color: #c80000;
+  font-size: 37px;
+  margin: 10px 60px 0 20px;
+}
+#logo img{
+  width: 100px;
+  margin-left: 28px;
+}
+.turn {
+  -moz-transform: rotate(-4deg); /* Для Firefox */
+  -ms-transform: rotate(-4deg); /* Для IE */
+  -webkit-transform: rotate(-4deg); /* Для Safari, Chrome, iOS */
+  -o-transform: rotate(-4deg); /* Для Opera */
+  transform: rotate(-4deg);
+}
+button{
+  border-radius: 50px;
+  font-family: 'Marmelad', sans-serif;
+  cursor: pointer;
+}
+#clientButton{
+  margin-right: 10px;
+}
+.jumbotron{
+  background-color: white;
+  padding-top: 0;
+}
+.main-content{
+  padding: 0 230px 0 230px;
+}
+
